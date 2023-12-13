@@ -1,2 +1,7 @@
-# CRUD_FastAPI_Mongo_Docker
-CRUD com Python, FastAPI, MongoDB e Docker usando uma base de dados do IMDB.
+<h1 align='center'> CRUD com Python, FastAPI, MongoDB e Docker </h1>
+
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+
+## Executando a API
+
+1. Clone o repositorio 
