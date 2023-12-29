@@ -1,0 +1,6 @@
+fastapi==0.104.0
+uvicorn==0.23.2
+pydantic==2.4.2
+motor==3.3.1
+pandas==2.1.4
+requests==2.31.0
