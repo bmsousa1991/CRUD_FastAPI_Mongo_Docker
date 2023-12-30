@@ -6,7 +6,7 @@ Projeto em Python utilizando FastAPI, MongoDB e Docker. Nesse projeto crei uma A
 
 ## Executando a API
 
-1. Clone o repositorio
+1. Clone o repositorio:
 
 ```
 https://github.com/bmsousa1991/CRUD_FastAPI_Mongo_Docker.git
@@ -17,3 +17,12 @@ https://github.com/bmsousa1991/CRUD_FastAPI_Mongo_Docker.git
 ```
 $ docker-compose up -d
 ```
+
+3. Rode o script seed.py para popular o banco de dados com os filmes contidos no arquivo movie.csv:
+   
+```
+$ python seed.py
+```
+
+4. 
+
