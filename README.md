@@ -24,5 +24,14 @@ $ docker-compose up -d
 $ python seed.py
 ```
 
-4. 
+4. Teste a aplicação:
+
+FastAPI também gerou automaticamente documentação de API totalmente interativa que podemos usar para interagir com nossa API. Podemos visitar http://localhost:8080/docs em nosso navegador para ver a documentação interativa da API fornecida pelo Swagger UI :
+
+![image](https://github.com/bmsousa1991/CRUD_FastAPI_Mongo_Docker/assets/151109415/35a43cdd-c1d2-429a-ac1a-3eb0aa8bc4a6)
+
+
+
+
+
 
